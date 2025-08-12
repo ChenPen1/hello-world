@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.8.2
+SQLAlchemy==2.0.32
+alembic==1.13.2
+python-multipart==0.0.9
+email-validator==2.2.0
+phonenumbers==8.13.45
+pytest==8.3.2
+httpx==0.27.0
